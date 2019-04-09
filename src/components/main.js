@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import dataJson from './../data/teste_arvore_data.json'
-import ReactTooltip from 'react-tooltip'
 import Tooltip from "react-simple-tooltip"
 
 
